@@ -3,7 +3,7 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:todo_list_app/pages/home_page.dart';
 
 void main() async{
-  await Hive.initFlutter(); //Key value pair db
+  await Hive.initFlutter(); 
   var box = await Hive.openBox('myBox');
   runApp(const MyApp());
 }
