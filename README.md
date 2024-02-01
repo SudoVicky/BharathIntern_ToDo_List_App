@@ -1,17 +1,13 @@
-# todo_list_app
+# Todo App Made with Flutter
 
-A new Flutter project.
+A simple todo app built with Flutter, Dart, and Hive for local database storage.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add new tasks to the todo list.
+- Mark tasks as completed.
+- Delete tasks from the list.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# BharathIntern_ToDo_List_App
+![Screenshot 1](screenshots/screenshot1.png)
